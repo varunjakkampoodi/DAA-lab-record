@@ -1,0 +1,6 @@
+# DAA-lab-record
+lab record
+NAME: J.VARUN
+ID:22WU0106002
+SECTION: BIC-A
+
